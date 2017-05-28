@@ -1,0 +1,5 @@
+﻿  Hungarian_face.cpp
+c:\users\murder\documents\visual studio 2015\projects\hungarian_algorithm\hungarian_algorithm\Hungarian_face.h(383): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  Graph.obj : /DEBUG:FASTLINK не поддерживается, если присутствует управляемый код; выполняется перезапуск компоновки с /DEBUG:FULL
+  Hungarian_algorithm.vcxproj -> C:\Users\Murder\Documents\Visual Studio 2015\Projects\Hungarian_algorithm\Debug\Hungarian_algorithm.exe
+  Hungarian_algorithm.vcxproj -> C:\Users\Murder\Documents\Visual Studio 2015\Projects\Hungarian_algorithm\Debug\Hungarian_algorithm.pdb (Partial PDB)
